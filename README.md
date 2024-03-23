@@ -23,14 +23,13 @@ Sou uma estudante de ciência da computação que está descobrindo as maravilha
 * 💡 Aprender coisas novas é uma das minhas atividades favoritas. Aprender algo para tornar a vida das pessoas melhor, como a Computação permite, é definitivamente um dos meus maiores prazeres;
 * 📫 Como me encontrar: karynav.araujo@gmail.com | karyna.araujo@ccc.ufcg.edu.br (para fins educacionais);
 * 📚 Estou sempre buscando aumentar meu conhecimento e aprimorar minhas habilidades.
-* 
 ## Atualmente...
 * Aprimorando meu conhecimento em Java;
 * Aprendendo sobre Spring Boot.
-* 
+
 ## Interessada, no futuro próximo, em...
 * Tornar-me uma desenvolvedora full stack;
 * Dominar o desenvolvimento web.
-* 
+
 ## Sobre mim
 Sou uma pessoa tranquila que gosta de ler livros de vários gêneros, mergulhar na teoria musical e tocar instrumentos. Minha prioridade é me desenvolver academicamente e profissionalmente.
