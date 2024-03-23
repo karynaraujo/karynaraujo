@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hello, my name is Karyna Araújo!
+I'm a computer science student who is discovering the wonders of this area - and enjoying it more and more.
 
-<!--
-**karynaraujo/karynaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💡 Learning new things is one of my favorite activities. Learning something to make people's lives better, as Computing enables, is definitely one of my greatest pleasures;
+* 📫 How to reach me: karynav.araujo@gmail.com | karyna.araujo@ccc.ufcg.edu.br (for educational purposes);
+* 📚 I'm always looking to increase my knowledge and improve my skills;
 
-Here are some ideas to get you started:
+## Currently...
+* Improving my knowledge in Java;
+* Learning about Spring Boot;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interested in, in the near future...
+* Become a full stack developer;
+* Mastering Web Development.
+
+## About me
+I'm a calm person who finds joy in reading books across various genres, delving into music theory, and playing musical instruments. My priority is to develop academically and professionally.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Olá, meu nome é Karyna Araújo!
+Sou uma estudante de ciência da computação que está descobrindo as maravilhas dessa área - e gostando cada vez mais.
+
+* 💡 Aprender coisas novas é uma das minhas atividades favoritas. Aprender algo para tornar a vida das pessoas melhor, como a Computação permite, é definitivamente um dos meus maiores prazeres;
+* 📫 Como me encontrar: karynav.araujo@gmail.com | karyna.araujo@ccc.ufcg.edu.br (para fins educacionais);
+* 📚 Estou sempre buscando aumentar meu conhecimento e aprimorar minhas habilidades.
+* 
+## Atualmente...
+* Aprimorando meu conhecimento em Java;
+* Aprendendo sobre Spring Boot.
+* 
+## Interessada, no futuro próximo, em...
+* Tornar-me uma desenvolvedora full stack;
+* Dominar o desenvolvimento web.
+* 
+## Sobre mim
+Sou uma pessoa tranquila que gosta de ler livros de vários gêneros, mergulhar na teoria musical e tocar instrumentos. Minha prioridade é me desenvolver academicamente e profissionalmente.
